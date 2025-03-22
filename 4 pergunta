@@ -1,0 +1,10 @@
+Prompt:
+"Crie um endpoint usando FastAPI que receba e valide um objeto do tipo Item com as seguintes regras:
+
+nome: string com no máximo 25 caracteres.
+
+valor: float.
+
+data: do tipo date, que não pode ser superior à data atual.
+Após validar os valores recebidos, o endpoint deve retornar o objeto Item com um novo campo adicional chamado uuid, contendo um identificador único gerado dinamicamente. 
+O código deve estar pronto para execução, formatado corretamente e incluir exemplos de requisição e resposta usando o Swagger do FastAPI."
