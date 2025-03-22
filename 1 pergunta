@@ -1,0 +1,3 @@
+"Explique detalhadamente como o algoritmo de Ray Tracing calcula a cor de um pixel em uma imagem renderizada. 
+Inclua explicações sobre interseção de raios, iluminação (direta e indireta), reflexões, refrações e o papel do modelo de sombreamento de Phong ou modelos similares. 
+Utilize exemplos matemáticos e diagramas conceituais para ilustrar o processo."
